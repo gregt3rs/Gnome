@@ -1,14 +1,14 @@
 {
-  "name": "GnomeyBot",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "GnomeyBot",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "gnomecord.aternos.me",
-    "port": 61097,
-    "version": "",
+    "ip": "247testing-3v57.aternos.me",
+    "port": 39112,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "I love GnomeyCord",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
